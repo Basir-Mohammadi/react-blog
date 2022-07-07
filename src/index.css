@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500&family=Roboto:wght@700&display=swap');
+
 * {
   margin: 0;
   color: #333;
+  font-family: 'Quicksand', sans-serif;
 }
 .navbar {
   padding: 20px;
