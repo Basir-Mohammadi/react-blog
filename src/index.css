@@ -55,3 +55,10 @@
   color: #f1356d;
   margin-bottom: 8px;
 }
+
+.btn-delete {
+  padding: 5px;
+  cursor:alias;
+  border: 1px solid gray;
+  border-radius: 4px;
+}
